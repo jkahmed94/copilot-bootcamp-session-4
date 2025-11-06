@@ -102,6 +102,16 @@ capabilities = {
         "capacity": 20,
         "consultants": ["charlotte.young@slalom.com", "henry.king@slalom.com"]
     }
+    ,
+    "Slalom Build": {
+        "description": "Product development, design thinking, agile delivery, and digital innovation.",
+        "practice_area": "Technology",
+        "skill_levels": ["Emerging", "Proficient", "Advanced", "Expert"],
+        "certifications": ["Product Management", "Agile certifications"],
+        "industry_verticals": ["Consumer Products", "Fintech", "Healthtech"],
+        "capacity": 40,
+        "consultants": []
+    }
 }
 
 
